@@ -1,0 +1,16 @@
+[general]
+name=Bhukamtha-lite
+qgisMinimumVersion=3.0
+qgisMaximumVersion=4.99
+supportsQt6=True
+description=Converts PDF files to DXF format using PyMuPDF and ezdxf.
+version=1.0
+author=Surveyor Stories
+email=surveyorstories@gmail.com
+about=This plugin converts PDF files to DXF format. It includes necessary dependencies.
+tracker=https://github.com/surveyorstories/pdftodxf/issues
+repository=https://github.com/surveyorstories/pdftodxf
+tags=cad,pdf,dxf,converter
+category=Vector
+experimental=False
+deprecated=False
